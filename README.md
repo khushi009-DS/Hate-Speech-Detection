@@ -28,13 +28,17 @@ This project aims to identify and classify hate speech in text data using machin
 - Addressing **data imbalance** was crucial for better predictions.
 - **Feature engineering techniques** (e.g., removing stopwords, vectorization) significantly improved model accuracy
 
+[Clone the Repository](https://github.com/khushi009-DS/Hate-Speech-Detection.git)
+
 ## 🚀 How to Run the Project  
-1. Clone this repository:  
+1. **Clone this repository:**  
+   [https://github.com/khushi009-DS/Hate-Speech-Detection.git](https://github.com/khushi009-DS/Hate-Speech-Detection.git)  
+   or run the following command in the terminal:
    ```bash
    git clone https://github.com/khushi009-DS/Hate-Speech-Detection.git
+Navigate to the project directory:
+cd Hate-Speech-Detection
 
-2. Navigate to the project directory:
-    cd Hate-Speech-Detection
 
 
 
